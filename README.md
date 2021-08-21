@@ -5,6 +5,8 @@ In this we can control the human to move in all four directions and we can contr
 
 We have 2 modes of cameras , one is the bird eye view and the other is the human view. We can switch between this views anytime we want.
 
+We have also implemented 2 types of texturing - spherical and planar.
+
 We can also make our avatar sit on one of the planes and move along with the plane.
 
 Few Screenshots and a Demo Video has been added.
